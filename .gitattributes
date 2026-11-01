@@ -1,0 +1,4 @@
+# Normaliza as quebras de linha ao enviar para o Git (o projeto tem arquivos com LF e CRLF)
+* text=auto
+*.jpg binary
+*.png binary
